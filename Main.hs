@@ -13,5 +13,5 @@ data ExprF a
   = NumLit Int
   | Add a a
 
-type Expr a
+type Expr
   = Fix ExprF
