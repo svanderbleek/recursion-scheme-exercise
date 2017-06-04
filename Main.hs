@@ -1,8 +1,5 @@
 #!/user/bin/env stack
 
-{-# LANGUAGE GADTs #-}
-{-# LANGUAGE StandaloneDeriving #-}
-
 -- Recursion Schemes
 -- http://slides.com/jedesah/recursion-schemes
 
